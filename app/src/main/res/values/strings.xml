@@ -1,0 +1,64 @@
+<resources>
+
+    //Judul
+    <string name="app_name"><![CDATA[Lost & Found]]></string>
+
+    //user
+    <string name="username">Squidward</string>
+    <string name="email">squidward@gmail.com</string>
+
+    //text
+    <string name="lorem_ipsum_1">Lorem ipsum dolor sit amet, consecteur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis notrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="hilang_1">Hilang HP HTC Warna Putih kurang lebih handphone mirip dengan gambar diatas, perkiraan hilang sekitaran danau galau ketika pagi hari sedang olahraga</string>
+    <string name="hilang_2">Ditemukan kunci mobil dan kunci motor honda menyatu di sekitaran parkiran FIT bagi yang merasa kehilangan silahkan menghubungi satpam parkiran FIT karena kuncinya sudah dititipkan</string>
+    <string name="hilang_3">Hilang HP Xiaomi warna hitam seperti gambar, bagi yang menemukan akan mendapat imbalan. Terima Kasih. </string>
+
+
+    //deskripsi
+    <string name="login_with_google">Login with google</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="category">Category</string>
+    <string name="search">Search...</string>
+    <string name="details">Details</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="item">Item</string>
+    <string name="hilang">Hilang</string>
+    <string name="ditemukan">Ditemukan</string>
+    <string name="_25_comments">25 comments</string>
+    <string name="tulis_komentar">Tulis Komentar..</string>
+
+    //Layout top
+    <string name="top_home"><![CDATA[Lost & Found]]></string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="new_post">New Post</string>
+    <string name="match_post">Match Post</string>
+
+    //Bottom nav
+    <string name="home">Home</string>
+    <string name="sugestion">Sugestion</string>
+    <string name="post">Post</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+
+    //profile
+    <string name="edit_profile1">Edit Profile</string>
+    <string name="ubah_identitas_pengguna">Ubah identitas pengguna</string>
+    <string name="help">Help</string>
+    <string name="contact_teamequinox_gmail_com">contact.teamequinox@gmail.com</string>
+    <string name="about">About</string>
+    <string name="versi_1_0">Versi 1.0</string>
+    <string name="sign_out">Sign Out</string>
+
+    //Spinner Kategori
+    <string-array name="kategori">
+        <item>-- Pilih Kategori --</item>
+        <item>Aksesoris</item>
+        <item>Gadget</item>
+        <item>Hewan</item>
+        <item>Otomotif</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string name="title_activity_get_location">GetLocationActivity</string>
+
+</resources>
